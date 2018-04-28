@@ -1,0 +1,26 @@
+.login {
+    background-image: url('http://sms.goimagensaereas.com.br/assets/dist/img/login-bg3.jpg');
+}
+.logo-gosms {
+    background-image: url('http://sms.goimagensaereas.com.br/assets/dist/img/GoImagensAereas_Aplicacao.png');
+    width: 96px;
+    height: 41px;
+    background-repeat: no-repeat;
+    margin-left: 30%;
+}
+.logo-gosms p {
+    float: right;
+    color: #fff;
+}
+
+.inputs-login {
+    margin-top: 45%;
+}
+.inputs-login ion-item {
+    color: #fff;
+    background-color: rgba(146, 143, 143, 0.123);
+}
+
+button {
+    width: 100%;
+}
